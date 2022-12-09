@@ -1,0 +1,276 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+}
+.cont{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    background-image: url(img/01_08.png);
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.wrap{
+   width: 1100px;
+   height: 100vh;
+}
+.box0{
+    width: 1100px;
+    
+}
+.box1{
+    height: 135px;
+    margin-top: 720px;
+    display: flex;
+    justify-content: space-between;
+}
+.box2{
+    height: 29px;
+    margin-top: 55px;
+    display: flex;
+    justify-content: center;
+}
+
+/*---네비게이션 시작 --*/
+nav{width: 100%;
+    height: 100px;
+    background-color: white;
+}
+ul{
+    width: 1100px;
+    height: 100px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+li{}
+.bt00{
+    padding-right: 490px;
+}
+/*--
+.bt00:hover{filter: invert(1);}
+.bt01:hover{filter: invert(1);}
+.bt02:hover{filter: invert(1);}
+.bt03:hover{filter: invert(1);}
+--*/
+/*---sub01 css 시작 --*/
+.s01_b00{
+    width: 100%;
+}
+.s01_b01{
+    height: 650px;
+    background-image: url(img/sub01/sub1_01.png); background-size: cover;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+}
+.s01_b02{
+    height: 570px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 50px;
+}
+.s01_b03{
+    height: 379px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-image: url('img/sub01/s01_b03_bg.png');
+    margin-bottom: 50px;
+}
+.s01_b04{
+    height: 400px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+}
+.s01_b05{
+    height: 640px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.s01_b06{
+    height: 376px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.s01_b07{
+    height: 79px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-bottom: 194px;
+    margin-top: 233px;
+}
+
+.ft{
+    width: 100%; height: 150px;
+    background-color: #181818;
+}
+
+/*---sub02 css 시작 --*/
+
+.s02_b00{
+    width: 100%;
+}
+
+.s02_b01{
+    height: 650px;
+    background-image: url(img/sub02/sub2_01.png); background-size: cover;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.s02_b02{
+    height: 412px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+
+.s02_b03{
+    height: 573px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.s02_b04{
+    height: 649px;    
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.s02_b05{
+    height: 370px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.s02_b06{
+    height: 658px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.s02_b07{
+    height: 166px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    
+}
+
+.s02_b08{
+    height: 323px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.s02_b09{
+    height: 734px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.s02_b10{
+    height: 1188px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.s02_b11{
+    height: 500px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.s02_b12{
+    height: 79px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 150px;
+    margin-bottom: 194px;
+}
+
+.sub2_ft{
+    width: 100%; height: 150px;
+    background-color: #181818;
+}
+
+/*---sub02 css 시작 --*/
+
+.s03_b00{
+    width: 100%;
+}
+
+.s03_b01{
+    height: 650px;
+    background-image: url(img/sub03/sub03_01.png); background-size: cover;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.s03_b02{
+    margin-top: 70px;
+    height: 356px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.s03_b03{
+    height: 600px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.s03_b04{
+    height: 367px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-bottom: 192px;
+}
+
+.s03_b05{
+    height: 37px;
+    justify-content: center;
+    align-items:center;
+    display: flex;
+    margin-bottom: 47px;
+}
+
+.sub3_ft{
+    width: 100%; height: 150px;
+    background-color: #181818;
+}
